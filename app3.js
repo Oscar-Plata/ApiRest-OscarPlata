@@ -108,7 +108,7 @@ app.get('/',(req,res)=>{
                     <br><br><a href="./arrendatarios">/ARRENDATARIOS</a><br><br>
                     </center>
                 </div>
-            <footer><center>Meta 2.3 ~ Oscar Joel Lopez Plata ~ Desarrollo de Aplicaciones Web</center> </footer>
+            <footer><center>Meta 2.4 ~ Oscar Joel Lopez Plata ~ Desarrollo de Aplicaciones Web</center> </footer>
         </body>
     </html>
     `)
